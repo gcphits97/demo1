@@ -15,7 +15,7 @@
 
         </activity>
         <activity
-            android:name=".Main2Activity"
+            android:name=".HomeActivity"
             android:label="@string/title_activity_main2"
             android:parentActivityName=".MainActivity">
             <meta-data
