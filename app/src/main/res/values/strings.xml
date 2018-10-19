@@ -2,6 +2,8 @@
     <string name="app_name">demo1</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_sport">Sport</string>
+    <string name="title_world">World</string>
+    <string name="title_entertainment">Entertainment</string>
+    <string name="title_account">Account</string>
 </resources>

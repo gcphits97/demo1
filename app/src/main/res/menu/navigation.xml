@@ -7,13 +7,23 @@
         android:title="@string/title_home" />
 
     <item
-        android:id="@+id/navigation_dashboard"
-        android:icon="@drawable/ic_dashboard_black_24dp"
-        android:title="@string/title_dashboard" />
+        android:id="@+id/navigation_sport"
+        android:icon="@drawable/icons8_soccer_ball_24"
+        android:title="@string/title_sport" />
 
     <item
-        android:id="@+id/navigation_notifications"
-        android:icon="@drawable/ic_notifications_black_24dp"
-        android:title="@string/title_notifications" />
+        android:id="@+id/navigation_world"
+        android:icon="@drawable/icons8_globe_24"
+        android:title="@string/title_world" />
+
+    <item
+        android:id="@+id/navigation_entertainment"
+        android:icon="@drawable/icons8_entertainment_24"
+        android:title="@string/title_entertainment" />
+
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/icons8_user_24"
+        android:title="@string/title_account" />
 
 </menu>
